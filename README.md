@@ -7,9 +7,9 @@ This project explores the application of Super-Resolution (SR) techniques to imp
 **Project Title:** *From Blur to Precision: Improving Aircraft Classification and Detection via Super-Resolution*
 
 **Team Members:**
+- Gazi Kağan Soysal (2210356050)
 - Emirhan Utku (2210765029)  
 - Erdinç Arıcı (2210356035)  
-- Gazi Kağan Soysal (2210356050)
 
 ---
 
