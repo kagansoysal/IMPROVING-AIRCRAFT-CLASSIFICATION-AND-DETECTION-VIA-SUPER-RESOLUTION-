@@ -93,10 +93,3 @@ The accompanying Jupyter Notebook (`VisionCourseProject.ipynb`) contains full im
 - Explore real-time integration and model compression for deployment
 
 ---
-
-## 📄 Citation
-
-If referencing this project in academic work:
-
-> Utku, E., Arıcı, E., & Soysal, G. (2025). *From Blur to Precision: Improving Aircraft Classification and Detection via Super-Resolution*. ICLR 2025 (Conference Paper).
-
